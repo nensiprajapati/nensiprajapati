@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nency [Chakli]
-- 👀 I’m interested in JavaScript, Python, Machine Learning
-- 🌱 I’m currently learning PowerApps
-- 📫 Reach me Instagram: nency2189
+- 👋 Hi, I’m Nency
+- 👀 I’m interested in Mobile App devlopment
+- 🌱 I’m currently learning Flutter
+
